@@ -1,2 +1,2 @@
 # Sheila-otieno.github.io
-theme: Cayman
+theme: cayman
